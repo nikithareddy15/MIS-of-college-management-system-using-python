@@ -1,0 +1,6 @@
+        StudentID      First Name     Last Name      Mobile no.   Primary email     B.Date     Adresss         
+001         nikitha         reddy         8095866166         niki@gmail.com         15/06/2000         bangalore
+002         ajay         suryaa         9629382058         ajay@gmail.com         14/10/1998         bangalore
+003         niharika         reddy         8095766166         niharika@gmail.com         15/06/2000         bangalore
+004         gautham         reddy         8784585245         gautham@gmail.com         01/05/2000         bangalore
+005         Jim anderson         K         9858785456         jim@gmail.com         12/12/2012         Delhi

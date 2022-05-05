@@ -1,0 +1,22 @@
+StudentID         Name     
+2128201           Ajay Paul           
+2128202           Ardra B           
+2128203           Archana S           
+2128204           Dheeraj S           
+2128205           Dhwani           
+2128206           Nikitha           
+2128207           Sachin G           
+2128208           Rakshana           
+2128209           Raman R           
+2128210           Yash           
+ia1   ia2   ia3   total marks
+12    20    13    45
+13    21    14    48
+14    20    13    47
+15    23    12    50
+11    18    12    41
+14    20    14    48
+18    23    17    58
+10    15    12    37
+13    14    15    42
+16    22    15    53

@@ -1,0 +1,22 @@
+StudentID         Name     
+2128201           Ajay Paul           
+2128202           Ardra B           
+2128203           Archana S           
+2128204           Dheeraj S           
+2128205           Dhwani           
+2128206           Nikitha           
+2128207           Sachin G           
+2128208           Rakshana           
+2128209           Raman R           
+2128210           Yash           
+attendance status
+P    
+P    
+A    
+P    
+P    
+A    
+P    
+P    
+A    
+P    
